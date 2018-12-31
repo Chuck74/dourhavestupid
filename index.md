@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-[For more details about APA see](https://www.americanprep.org/).
+[Visit Google](https://www.google.com).
 
 ### Jekyll Themes
 
